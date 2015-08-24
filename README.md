@@ -4,6 +4,9 @@ This listner is deisgned to listen for events posted to the particle cloud. You 
 
 For documentation, see the comments in-line with the code.
 
+## Using the code
+To use the event listner, copy the code into the scripts file in your hubot. Simple as that.
+
 
 ###License
 MIT License
